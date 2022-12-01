@@ -1,0 +1,20 @@
+{
+	"id": "nuit-info",
+	"name": "Walter is cumming",
+	"short_name": "Walter is cumming",
+	"description": "Projet pour la nuit de l'info 2022",
+	"start_url": "/",
+	"scope": "/",
+	"display_override": ["window-controls-overlay"],
+	"display": "standalone",
+	"orientation": "any",
+	"background_color": "#051923",
+	"theme_color": "#eac531",
+	"icon": "logo",
+	"related_applications": [
+		{
+			"platform": "web",
+			"url": "https://notask.app"
+		}
+	]
+}
