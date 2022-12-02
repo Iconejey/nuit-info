@@ -1,0 +1,34 @@
+{
+	"chlamydia": {
+		"title": "You have Chlamydia !",
+		"description": "L'infection à Chlamydia (ou chlamydiose) est due à une bactérie appelée Chlamydia trachomatis. C'est l'une des infections sexuellement transmissibles (IST) les plus fréquentes. L'infection ne provoque aucun symptôme dans 60 à 70 % des cas, elle est dite, dans ce cas, « silencieuse »."
+	},
+	"gonorrhée": {
+		"title": "You have Gonorrhée !",
+		"description": "La gonorrhée est une infection sexuellement transmissible due à la bactérie appelée gonocoque. Elle est aussi connue sous le nom de chaude-pisse ou blennorragie."
+	},
+	"herpès": {
+		"title": "You have Herpès !",
+		"description": "L'herpès est une infection virale qui se manifeste par des boutons ou des cloques sur la peau ou les muqueuses. Les boutons peuvent être douloureux et provoquer des démangeaisons. Les cloques peuvent se rompre et laisser des plaies qui saignent."
+	},
+	"syphilis": {
+		"title": "You have Syphilis !",
+		"description": "La syphilis est une maladie sexuellement transmissible due à une bactérie appelée Treponema pallidum. Elle se transmet par contact sexuel avec une personne infectée. La syphilis peut être traitée avec des antibiotiques."
+	},
+	"papillomavirus": {
+		"title": "You have papillomavirus !",
+		"description": "Les papillomavirus humains (HPV) appartiennent à une famille de virus comptant plus de cent variantes. Les conséquences d'une infection peuvent, selon le type de papillomavirus, aller des verrues génitales aux cancers. Plus de 99 % des cancers du col de l'utérus sont provoqués par une infection chronique par papillomavirus."
+	},
+	"trichomonas": {
+		"title": "You have Trichomonas !",
+		"description": "La trichomonase est une infection sexuellement transmissible due à une bactérie appelée Trichomonas vaginalis. Elle se transmet par contact sexuel avec une personne infectée. La trichomonase peut être traitée avec des antibiotiques."
+	},
+	"mycoplasme": {
+		"title": "You have Mycoplasme !",
+		"description": "Les mycoplasmes sont des bactéries qui ne possèdent pas de paroi cellulaire. Ils sont responsables de plusieurs infections sexuellement transmissibles. Les mycoplasmes peuvent être traités avec des antibiotiques."
+	},
+	"hepatite B": {
+		"title": "You have Hepatite B !",
+		"description": "L'hépatite B est une infection virale qui affecte le foie. Elle se transmet par contact avec le sang ou les fluides corporels d'une personne infectée. L'hépatite B peut être traitée avec des médicaments antiviraux."
+	}
+}

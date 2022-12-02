@@ -1,5 +1,7 @@
 // 22.11.30
 
+console.log('Service worker loaded');
+
 const use_cache = false;
 const cache_domains = ['localhost', 'notask.app', 'fonts.gstatic.com'];
 const cache_ignore = [];

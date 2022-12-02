@@ -1,0 +1,18 @@
+bullet-entity,
+virus-entity,
+player-entity,
+sexual-entity {
+	position: fixed;
+	transform: translate(-50%, -50%);
+	user-select: none;
+	display: block;
+	pointer-events: none;
+
+	img {
+		width: var(--size);
+	}
+}
+
+player-entity {
+	z-index: 2;
+}

@@ -18,3 +18,27 @@ html {
 	font-family: 'Roboto';
 	-webkit-tap-highlight-color: transparent;
 }
+
+.condoms {
+	position: fixed;
+	top: 1em;
+	left: 1em;
+	display: flex;
+	flex-direction: row;
+	gap: 1em;
+	pointer-events: none;
+
+	img {
+		width: 2em;
+	}
+}
+
+.score {
+	position: fixed;
+	top: 1em;
+	right: 1em;
+	display: flex;
+	flex-direction: row;
+	gap: 1em;
+	pointer-events: none;
+}
